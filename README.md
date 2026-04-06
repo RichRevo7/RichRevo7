@@ -43,7 +43,7 @@ Trabajo en desarrollo web, móvil, sistemas administrativos y proyectos de infra
 
 ### ⚙️ Herramientas
 - Git y GitHub
-- Linux / Ubuntu
+- Linux | Ubuntu LTS | Fedora Workstation.
 - Android Studio
 - Visual Studio Code
 
